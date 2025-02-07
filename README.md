@@ -4,8 +4,6 @@
 
 [![Main](https://img.youtube.com/vi/RQlhC_rDrsc/0.jpg)](https://www.youtube.com/watch?v=RQlhC_rDrsc)
 
-#### Thanks For supporting❤!
-
 <div class="row">
   <div class="column">
    <img src="https://user-images.githubusercontent.com/91388754/183981737-6ed8f725-9554-4d38-969c-306f72843856.jpg" height="400"/>
