@@ -65,7 +65,7 @@ git clone https://github.com/your-username/flutter-todo-app.git
 cd flutter-todo-app
 ```
 
-#### 2. Clone the Repository
+#### 2. Install Dependencies
 ```bash
 flutter pub add cupertino_icons http provider intl shared_preferences
 flutter pub get
