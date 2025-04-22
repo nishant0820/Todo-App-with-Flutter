@@ -70,3 +70,8 @@ cd flutter-todo-app
 flutter pub add cupertino_icons http provider intl shared_preferences
 flutter pub get
 ```
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
