@@ -63,8 +63,10 @@ A clean and efficient **Todo List App built with Flutter**, designed to help you
 ```bash
 git clone https://github.com/your-username/flutter-todo-app.git
 cd flutter-todo-app
+```
 
 #### 2. Clone the Repository
 ```bash
 flutter pub add cupertino_icons http provider intl shared_preferences
 flutter pub get
+```
